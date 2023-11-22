@@ -11,7 +11,7 @@ const Header = () => {
       </Link>
       <div className='flex items-center gap-3'>
         <InputSearch />
-        <button className="flex justify-center items-center bg-merme-orange hover:bg-orange-400 w-72 h-12 dark:bg-merme-skyblue border-2 border-merme-black dark:border-merme-cream-bg text-xl text-merme-cream-bg dark:text-merme-black font-semibold rounded-md transition-colors duration-300">
+        <button className="flex justify-center items-center bg-merme-orange hover:bg-orange-400 w-96 h-12 dark:bg-merme-skyblue border-2 border-merme-black dark:border-merme-cream-bg text-xl text-merme-cream-bg dark:text-merme-black font-semibold rounded-md transition-colors duration-300">
           <svg className="w-6 h-6 text-2xl mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path>
           </svg>
