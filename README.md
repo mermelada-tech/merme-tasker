@@ -3,6 +3,8 @@
 Proyecto de la comunidad Mermelada Tech
 Consiste en un manejador de tareas, con autenticacion de usuarios.
 
+[Figma](https://www.figma.com/file/72OW2aZE5sD7dlbKIqVde4/Untitled?type=design&node-id=0-1&mode=design&t=2D2yWFocSgEXJ7b0-0)
+
 Tecnologias:
 
 <ul>
@@ -15,10 +17,9 @@ Tecnologias:
 
 
 
-<div style="display: block">
-<img src="./public/Mermelada.png" style="width: 250px"/>
-<div>
 
-<a href="https://www.twitch.tv/mermeladatech" style="font-size: 22px">Twitch<a>
+<a style="display: block" href="https://www.twitch.tv/mermeladatech" >
+<img src="./public/Mermelada.png" style="width: 250px"/>
+<a>
 
 
